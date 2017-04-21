@@ -5,7 +5,7 @@
 		Bar Chart
 	</title>
 	<style type="text/css">
-      /*** Styles ***/
+      
       #barinfo { width: auto; height: auto; border: 5px solid #000; position: absolute; padding: 10px;  display: none; background-color: #fff; -moz-border-radius: 10px; border-radius: 10px; -webkit-border-radius: 10px; z-index: 11; }
 		 #overlayCanvas { position: absolute; top: 0px; left: 0px; z-index: 10;}
 	</style>
